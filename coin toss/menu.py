@@ -4,3 +4,4 @@ def menu_game():
     print("1.START")
     print("2.EXIT")
     print("##############################")
+    
