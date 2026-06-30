@@ -5,7 +5,6 @@ from art import logo
 def clear_console():
     os.system('cls')
 
-
 print(logo)
 
 
