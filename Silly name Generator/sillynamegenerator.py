@@ -1,5 +1,5 @@
 import random
 
 
-nums = ["josef", "tewodros", "nati"]
+nums = ["jo", "h", "nati"]
 print(random.choices(nums))
